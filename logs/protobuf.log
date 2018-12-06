@@ -1,0 +1,38 @@
+[2018-12-06 09:41:46 INFO  main] com.cmd.protobuf.service.TestLog - test
+[2018-12-06 10:12:38 INFO  main] com.cmd.protobuf.Main - 执行结果:
+[2018-12-06 10:13:36 INFO  main] com.cmd.protobuf.Main - 执行结果:
+[2018-12-06 10:16:29 INFO  main] com.cmd.protobuf.Main - 执行结果:
+[2018-12-06 10:18:15 INFO  main] com.cmd.protobuf.Main - 执行结果:
+[2018-12-06 10:19:08 INFO  main] com.cmd.protobuf.Main - 执行结果:
+[2018-12-06 10:20:11 INFO  main] com.cmd.protobuf.Main - 执行结果:
+[2018-12-06 10:38:48 INFO  main] com.cmd.protobuf.Main - buildData:app_token_id: 2121
+client_id: "clientId2asasa"
+access_token: "wewewewew"
+access_expire_time: 1544063928047
+
+[2018-12-06 10:39:12 INFO  main] com.cmd.protobuf.Main - buildData:app_token_id: 2121
+client_id: "clientId2asas22222222222222222222222a"
+access_token: "wewewewew"
+access_expire_time: 1544063952443
+
+[2018-12-06 10:39:43 INFO  main] com.cmd.protobuf.Main - buildData:app_token_id: 2121
+client_id: "clientId2asas22222222222222222222222a"
+access_token: "wewewewew"
+access_expire_time: 1544063982782
+
+[2018-12-06 10:44:16 INFO  main] com.cmd.protobuf.Main - json存储字节数组长度:129
+[2018-12-06 10:44:16 INFO  main] com.cmd.protobuf.Main - buildData:app_token_id: 2121
+client_id: "clientId2asas22222222222222222222222a"
+access_token: "wewewewew"
+access_expire_time: 1544064256283
+
+[2018-12-06 10:44:16 INFO  main] com.cmd.protobuf.Main - ===== 构建build模型结束 =====
+[2018-12-06 10:44:29 INFO  main] com.cmd.protobuf.Main - 
+bytes长度60
+[2018-12-06 10:44:29 INFO  main] com.cmd.protobuf.Main - ===== 使用gps 反序列化生成对象开始 =====
+[2018-12-06 10:44:29 INFO  main] com.cmd.protobuf.Main - app_token_id: 2121
+client_id: "clientId2asas22222222222222222222222a"
+access_token: "wewewewew"
+access_expire_time: 1544064256283
+
+[2018-12-06 10:44:29 INFO  main] com.cmd.protobuf.Main - ===== 使用protobuf反序列化生成对象结束 =====

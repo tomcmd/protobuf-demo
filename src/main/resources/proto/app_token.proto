@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_outer_classname = "AppTokenProtobuf";
+option java_package = "com.cmd.protobuf.service";
+
+message app_token_protobuf{
+    int64 app_token_id = 1;
+    string client_id = 2;
+    string access_token = 3;
+    int64 access_expire_time =4;
+}
